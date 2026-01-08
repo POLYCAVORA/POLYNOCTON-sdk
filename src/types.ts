@@ -1,7 +1,7 @@
 /**
- * Configuration options for the PolyEmperion SDK.
+ * Configuration options for the POLYNOCTON SDK.
  */
-export interface PolyEmperionConfig {
+export interface POLYNOCTONConfig {
   /** Base URL for market data API (default: https://clob.polymarket.com) */
   metaBaseUrl?: string;
   /** Base URL for WebSocket streams (default: wss://clob.polymarket.com/ws) */
