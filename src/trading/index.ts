@@ -27,7 +27,7 @@ import type { TradingConfig, PlaceOrderParams, Order } from "../types.js";
  * 
  * @example
  * ```typescript
- * const sdk = new POLYNOCTONSDK({
+ * const sdk = new POLYCAVORASDK({
  *   trading: {
  *     chainId: 137,
  *     backend: { privateKey: "0x..." },
