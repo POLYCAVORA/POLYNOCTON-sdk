@@ -1,7 +1,7 @@
 /**
- * Configuration options for the POLYNOCTON SDK.
+ * Configuration options for the POLYCAVORA SDK.
  */
-export interface POLYNOCTONConfig {
+export interface POLYCAVORAConfig {
   /** Base URL for market data API (default: https://clob.polymarket.com) */
   metaBaseUrl?: string;
   /** Base URL for WebSocket streams (default: wss://clob.polymarket.com/ws) */
