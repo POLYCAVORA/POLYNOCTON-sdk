@@ -1,5 +1,5 @@
 /**
- * Default configuration values for the POLYNOCTON SDK.
+ * Default configuration values for the POLYCAVORA SDK.
  */
 export const DEFAULTS = {
   /** Default API base URL for Polymarket CLOB */
