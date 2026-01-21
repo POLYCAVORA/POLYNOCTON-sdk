@@ -1,6 +1,6 @@
-# Contributing to POLYNOCTON SDK
+# Contributing to POLYCAVORA SDK
 
-Thank you for your interest in contributing to the POLYNOCTON SDK! We welcome contributions from the community.
+Thank you for your interest in contributing to the POLYCAVORA SDK! We welcome contributions from the community.
 
 ## How to Contribute
 
@@ -8,7 +8,7 @@ Thank you for your interest in contributing to the POLYNOCTON SDK! We welcome co
 
 If you find a bug or have a suggestion for improvement:
 
-1. Check if the issue already exists in our [issue tracker](https://github.com/POLYNOCTON/POLYNOCTON-sdk)
+1. Check if the issue already exists in our [issue tracker](https://github.com/POLYCAVORA/POLYCAVORA-sdk)
 2. If not, create a new issue with a clear description
 3. Include reproduction steps for bugs
 4. Provide environment details (Node.js version, OS, etc.)
@@ -46,14 +46,14 @@ If you find a bug or have a suggestion for improvement:
 ### Prerequisites
 
 - Node.js >= 18.0.0
-- npm or POLYNOCTON
+- npm or POLYCAVORA
 
 ### Setup
 
 1. Clone your fork:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/POLYNOCTON-sdk.git
-   cd POLYNOCTON-sdk
+   git clone https://github.com/YOUR_USERNAME/POLYCAVORA-sdk.git
+   cd POLYCAVORA-sdk
    ```
 
 2. Install dependencies:
@@ -109,8 +109,8 @@ When adding new features:
 If you have questions about contributing, feel free to:
 
 - Open an issue for discussion
-- Reach out on X (Twitter): [@POLYNOCTONxyz](https://x.com/polynoctonxyz)
-- Visit our website: [https://POLYNOCTON.xyz](https://polynocton.xyz)
+- Reach out on X (Twitter): [@POLYCAVORAxyz](https://x.com/POLYCAVORAxyz)
+- Visit our website: [https://POLYCAVORA.xyz](https://POLYCAVORA.xyz)
 
 ## Code of Conduct
 
@@ -123,8 +123,8 @@ We expect all contributors to be respectful and professional. Please:
 
 ## License
 
-By contributing to POLYNOCTON SDK, you agree that your contributions will be licensed under the MIT License.
+By contributing to POLYCAVORA SDK, you agree that your contributions will be licensed under the MIT License.
 
 ---
 
-Thank you for helping make POLYNOCTON SDK better! 🚀
+Thank you for helping make POLYCAVORA SDK better! 🚀
