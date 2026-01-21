@@ -36,7 +36,7 @@ const DEFAULT_RELAYER_URL = "https://relayer.polymarket.com";
  * 
  * @example
  * ```typescript
- * const sdk = new POLYNOCTONSDK({
+ * const sdk = new POLYCAVORASDK({
  *   relayer: {
  *     chainId: 137,
  *     backend: { privateKey: "0x..." }
