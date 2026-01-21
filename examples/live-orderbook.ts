@@ -1,12 +1,12 @@
-import { POLYNOCTONSDK } from "../src/client.js";
+import { POLYCAVORASDK } from "../src/client.js";
 
 // In Node: `npm i ws` then:
 // // @ts-ignore
 // globalThis.WebSocket = (await import("ws")).default as any;
 
 async function main() {
-  const sdk = new POLYNOCTONSDK({ debug: true });
-  const marketId = process.env.POLYNOCTON_MARKET_ID || "example-market-id";
+  const sdk = new POLYCAVORASDK({ debug: true });
+  const marketId = process.env.POLYCAVORA_MARKET_ID || "example-market-id";
 
   const off = sdk.onOrderbook(
     marketId,
